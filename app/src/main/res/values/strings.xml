@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlvinQuijano_COMP304_Task02</string>
+    <string name="Your_Name">Alvin Quijano</string>
+    <string name="Qualification">Diploma in Software Engineering Technology</string>
+    <string name="Dream_Job">Android Developer for Google</string>
+    <string name="Specialized_Field">Java, C#, Android Studio</string>
+</resources>
