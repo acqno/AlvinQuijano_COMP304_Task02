@@ -5,6 +5,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+/*
+Name: Alvin Quijano
+Version: 1.0
+Description: Assignment 1 - Task 2 - Press button on main activity to display contents of string.xml on a second activity.
+ */
 
 public class MainActivity extends AppCompatActivity {
 
